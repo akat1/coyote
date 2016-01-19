@@ -1,0 +1,12 @@
+coyote is a compiler of JZWI (język z wykładu improved) language for x86
+architecture. I wrote that as a project for university course many years ago,
+I put it here to not be forgotten. Language specification has been lost, let
+me know if you've got copy of it.
+
+Code (as well as jzwi language itself) is a pile of crap, so feel free to
+fix it, submit pull requests or ignore it. :)
+
+Have fun,
+Mateusz Kocielski
+
+
